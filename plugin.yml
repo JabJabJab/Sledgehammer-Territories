@@ -1,0 +1,9 @@
+name: Territories Plug-in
+version: "1.0_0"
+description: "Plug-in for the Territory module."
+modules:
+  Territories:
+    client-module-id: "territory"
+    version: "1.0_0"
+    description: "Territory."
+    class: "sledgehammer.module.territory.ModuleTerritories"
